@@ -64,8 +64,8 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "Miguel Risco-Castillo (MRiscoC)" // Original author or contributor.
-#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
+#define STRING_CONFIG_H_AUTHOR "Kai Eysselein" // Original author or contributor.
+#define CUSTOM_VERSION_FILE Version_Kai.h // Path from the root directory (no quotes)
 
 // @section machine
 
@@ -132,7 +132,7 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Ender3V2-422-MM"
+#define CUSTOM_MACHINE_NAME "Ender3V2-422-Hyrax"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
